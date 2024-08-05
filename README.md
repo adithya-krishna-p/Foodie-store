@@ -1,4 +1,5 @@
-# React + Vite
+# a foodie web app frontend built with ReactJS, Vite, and Tailwind CSS! 🍔🍣🍰
+Optimized for performance and styled to perfection.
 
 <img src="./demo/Screenshot 2024-08-05 103455.png">
 <img src="./demo/Screenshot 2024-08-05 103504.png">
